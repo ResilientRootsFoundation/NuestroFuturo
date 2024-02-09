@@ -12,4 +12,5 @@ At Fundación Raíces Resilientes, we are committed to creating a world where ev
 
 <br/>
 <br/>
-<img src="https://github.com/ResilientRootsFoundation/NuestroFuturo/blob/main/images/Youth.PNG" class="d-block w-100" alt="Image 2">
+<p align="center"><img src="https://github.com/ResilientRootsFoundation/NuestroFuturo/blob/main/images/Youth.PNG" class="d-block w-100" style="width: 50%; opacity: 0.80;" alt="Young woman"></p>
+
