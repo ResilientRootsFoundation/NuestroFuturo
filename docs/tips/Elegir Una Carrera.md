@@ -1,4 +1,4 @@
-
+# Elegir una carrera
 <p align="center"><img src="https://github.com/ResilientRootsFoundation/NuestroFuturo/blob/main/images/the%20future.PNG" class="d-block w-100" style="width: 90%; opacity: 0.80;" alt="The Future"></p>
 <br/>
 Elegir una carrera universitaria es una decisión significativa para los estudiantes en México, como lo es para estudiantes en cualquier parte del mundo. La mejor elección depende de los intereses, fortalezas y tendencias actuales del mercado laboral de cada individuo. Aquí se presentan algunas trayectorias profesionales que tienen perspectivas prometedoras en México y a nivel mundial, reflejando el panorama económico del país, los avances tecnológicos y las necesidades sociales:
