@@ -1,4 +1,5 @@
 # Resilient Roots Foundation [Fundación Raíces Resilientes]
+![Helping Others](https://github.com/ResilientRootsFoundation/NuestroFuturo/blob/main/images/Helping%20the%20others.png)
 
 ## Mission Statement
 
